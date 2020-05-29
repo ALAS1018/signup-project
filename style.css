@@ -1,0 +1,47 @@
+body{ margin: 0;
+    padding: o;
+   font-family: sans-serif;
+   background-image: url(image/a6.jpg);
+  background-size:cover;
+ }
+
+ .container{ position: absolute;
+             top: 13%;
+             left: 40%;
+             width: 500px;
+             padding: 2rems;
+             background:rgba(0,0,0,.8);
+             box-sizing: border-box;
+
+             border-radius: 50px;
+             text-align: center;
+            }
+
+            h1{ color:#fff;
+   
+            } 
+
+      input{ width: 70%;
+        padding: 0.8rem;
+        border: none;
+        border-radius: 25px;
+
+    }  
+
+button{width: 20%;
+      padding: 0.6rem;
+      background-color:#729aca;
+      border: none;
+      border-radius: 25px;
+      color: #fff;
+
+}
+
+
+
+
+      
+
+
+
+
